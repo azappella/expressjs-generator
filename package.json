@@ -1,5 +1,5 @@
 {
-  "name": "express-generator",
+  "name": "expressjs-generator",
   "description": "Express' application generator",
   "version": "4.15.5",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
@@ -22,7 +22,7 @@
     "app",
     "api"
   ],
-  "repository": "expressjs/generator",
+  "repository": "base7/expressjs-generator",
   "license": "MIT",
   "dependencies": {
     "commander": "2.11.0",
